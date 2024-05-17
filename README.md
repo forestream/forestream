@@ -1,4 +1,5 @@
-👋 Hi, <br/>
+# 👋
+Hi, <br/>
 I'm interested in frontend development and seeking for related careers. <br/>
 I'm currently learning Next.js app router, react query. <br/>
 
