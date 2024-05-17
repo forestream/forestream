@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @forestream
-- velog: https://velog.io/@forestream/posts
+- https://velog.io/@forestream/posts
 
 <!---
 - 👀 I’m interested in ...
