@@ -1,6 +1,9 @@
 <p>프론트엔드 개발을 공부하고 있습니다.</p>
 
 ##### [블로그](https://velog.io/@forestream/posts) / [이메일](mailto:rj2303@naver.com)
+#### 개인프로젝트 
+#### [Project Christmas](https://doosichilbun.com)
+
 <p></p>
 
 <div>
