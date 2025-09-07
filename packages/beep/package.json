@@ -1,0 +1,21 @@
+{
+  "name": "@forestream/beep",
+  "version": "0.1.0",
+  "description": "Makes a beep sound on every change event",
+  "keywords": [
+    "beep"
+  ],
+  "license": "ISC",
+  "author": "forestream",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.12"
+  }
+}
