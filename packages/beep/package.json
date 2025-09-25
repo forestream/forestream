@@ -1,6 +1,6 @@
 {
   "name": "@forestream/beep",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Makes a beep sound on every change event",
   "keywords": [
     "beep"
