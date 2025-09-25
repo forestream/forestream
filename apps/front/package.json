@@ -1,7 +1,23 @@
 {
-  "name": "front",
+  "name": "@forestream/front",
   "version": "0.1.0",
   "private": true,
+  "description": "To install dependencies:",
+  "homepage": "https://github.com/forestream/forestream#readme",
+  "bugs": {
+    "url": "https://github.com/forestream/forestream/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestream/forestream.git"
+  },
+  "license": "ISC",
+  "author": "forestream",
+  "type": "module",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
@@ -26,9 +42,8 @@
     "prettier": "3.6.2",
     "tailwindcss": "^4",
     "typescript": "^5",
-    "vite": "^7.1.7"
+    "vite": "^7.1.7",
+    "@types/bun": "latest"
   },
-  "workspaces": [
-    "packages/*"
-  ]
+  "module": "index.ts"
 }
