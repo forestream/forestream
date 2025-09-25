@@ -1,7 +1,8 @@
 await Bun.build({
-  entrypoints: ["./packages/beep/src/index.ts"],
-  outdir: "./packages/beep/dist",
+  entrypoints: ["./src/index.ts"],
+  outdir: "./dist",
   external: ["react"],
+
 });
 
 export {};
