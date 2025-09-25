@@ -1,6 +1,6 @@
 {
   "name": "@forestream/beep",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Makes a beep sound on every change event",
   "keywords": [
     "beep"
@@ -9,6 +9,11 @@
   "author": "forestream",
   "type": "module",
   "main": "dist/index.js",
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "package.json"
+  ],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -18,7 +23,7 @@
     "./hooks/*":"./dist/hooks/*.js"
   },
   "scripts": {
-    "publish": "npm publish",
+    "publish": "bun publish",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc && bun ./Bun.build.ts"
   },
